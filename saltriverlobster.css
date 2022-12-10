@@ -1,0 +1,11 @@
+
+/* Including margin bottom between list items. */
+li {
+    margin-bottom: 1.25rem;
+  }
+  
+  
+  /* Decreasing margin bottom on the last item of lists. */
+  li:last-child {
+      margin-bottom: .25rem;
+  }
