@@ -1,0 +1,5 @@
+/* Remove underline from linked text. */
+
+a:link {
+	text-decoration: none;
+}
