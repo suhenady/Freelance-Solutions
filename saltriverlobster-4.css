@@ -1,0 +1,5 @@
+/* Make linked white font headings on homepage yellow when hovered over. */
+
+.wp-elements-7b33042ac7bc76da6d7826205d5d6a1d.wp-block-heading.has-secondary-color.has-text-color.has-link-color a:hover, .wp-elements-95b0268ab8216cc73ab17bc34f91357a.wp-block-heading.has-background-color.has-text-color.has-link-color a:hover, .wp-elements-874fd0b389a2b3d14bf272ffb9b47257.wp-block-heading.margin-top-half.has-background-color.has-text-color.has-link-color a:hover, .wp-elements-6dc23c64539c98c6ab22255ea352d355.wp-block-heading.margin-top-half.has-background-color.has-text-color.has-link-color a:hover, .wp-elements-57adb53ed546d64feec7a4b52823eb0f.wp-block-heading.margin-top-half.has-background-color.has-text-color.has-link-color a:hover {
+	color: #FFD41B;
+}
