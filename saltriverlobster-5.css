@@ -1,0 +1,5 @@
+/* Make linked teal font headings on homepage navy when hovered over */
+
+.wp-elements-9bf231bc01b27b1800f6513701c0e52a.wp-block-heading.has-text-align-center.has-text-color.has-link-color a:hover, .wp-elements-13bd2a101555ce6d984ab7c5417b255a.wp-block-heading.has-text-color.has-link-color a:hover, .wp-elements-b9dfa7c3b828c84a181910e3f59d49ae.wp-block-heading.has-text-color.has-link-color a:hover, .wp-elements-1d25b3c470207927769284556b2b5d90.wp-block-heading.has-text-align-center.has-text-color.has-link-color a:hover {
+	color: #09144A;
+}
