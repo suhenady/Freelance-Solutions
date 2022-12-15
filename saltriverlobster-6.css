@@ -1,0 +1,6 @@
+/* Make linked light blue font headings on homepage white when hovered over */
+
+.wp-elements-61feeeb0bbb2095e7047f9166eeddac7.wp-block-heading.has-secondary-color.has-text-color.has-link-color a:hover {
+	color: #FFFFFF;
+}
+
