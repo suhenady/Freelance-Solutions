@@ -1,0 +1,5 @@
+/* Make black linked locations heading text across Find Us page navy when hovered over. */
+
+#potomac.wp-elements-4433f3a1cf9d3edae97d111fbd46738a.wp-block-heading.has-link-color a:hover, #bethesda.wp-elements-675348414970b95253b76ba3541d6dc5.wp-block-heading.has-link-color a:hover, #kensington.wp-elements-faf05eb8b421824bc1b1239afbb70b05.wp-block-heading.has-foreground-color.has-text-color.has-link-color a:hover, #baltimore.wp-elements-2e22bcd73e1b398b23d2cb3e4c4c7e91.wp-block-heading.has-link-color a:hover {
+	color: #0B216D;
+}
