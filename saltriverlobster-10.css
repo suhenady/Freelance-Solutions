@@ -1,0 +1,5 @@
+/* Make linked yellow font pre-footer text on homepage white when hovered over */
+
+.wp-elements-261aa32c99c5a86e18b888d69c38a6e1.has-text-align-center.has-text-color.has-link-color a:hover {
+	color: #ffffff;
+}
