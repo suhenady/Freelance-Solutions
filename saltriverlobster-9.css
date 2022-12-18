@@ -1,0 +1,5 @@
+/* Make linked white font pre-footer text on homepage light blue when hovered over */
+
+.wp-elements-45ff2521de301c509a2e01e0f23dbfa3.has-text-align-center.has-background-color.has-text-color.has-link-color a:hover {
+	color: #82BFE0;
+}
