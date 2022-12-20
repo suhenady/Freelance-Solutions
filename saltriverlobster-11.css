@@ -1,0 +1,7 @@
+/* Map icon re-sizing.*/
+
+.wp-block-media-text__media .wp-image-275.size-full.imageHover.mapSize{
+	width: 7rem;
+	padding-right: 10%;
+	margin: auto;
+}
