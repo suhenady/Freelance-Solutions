@@ -1,3 +1,3 @@
 # Freelance-Solutions
 
-Coding solutions to my freelnace work changes and updates.
+Coding solutions to my freelance work and commits.
