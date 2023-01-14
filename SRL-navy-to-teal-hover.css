@@ -1,0 +1,81 @@
+
+/* Make navy linked text across website pages teal when hovered over.*/
+
+/* List items for list of customer, SRL and chef linked recipes. */
+li.has-normal-font-size a:hover {
+	color: #0D8093;
+}
+
+
+/* Recipes page linked paragraph text. */ 
+p.wp-elements-e29c93b60dbbb3b48e185d7672ed1447.has-link-color.has-normal-font-size a:hover {
+	color: #0D8093;
+}
+
+
+/* Linked list of recipe categories on recipe main page. */ 
+ul.wp-elements-f5b576c56cdaa560381573438f294517.has-primary-color.has-text-color.has-link-color li a:hover {
+	color: #0D8093;
+}
+
+
+/* H5 "Click Here" text on Find Us locations page. */ 
+h5.wp-elements-54f136a6a8c5db10b0011daaa644058e.wp-block-heading.has-foreground-color.has-text-color.has-link-color a:hover {
+	color: #0D8093;
+} 
+
+
+/* All four market locations' linked "Click here" for Google maps text. */ 
+
+p.wp-elements-87a20e0b117d5300c31d9f074fa0140c.has-link-color a:hover, p.wp-elements-21580ac716cf44efea1ebecec44e9fa0.has-link-color a:hover, p.wp-elements-f00f1cbca03efc1e31ec654d75235f1c.has-link-color a:hover, p.wp-elements-0e353df6a0dd5df844719039df7577e9.has-link-color a:hover {
+	color: #0D8093;
+} 
+
+
+/* Linked paragraph text on Products and Prices page. */ 
+p.wp-elements-6d311335a8cf3856b2e3a69cd0c2c635.has-link-color.has-normal-font-size a:hover {
+	color: #0D8093;
+}
+
+
+/* Unordered List of different product menu pages. */ ul.wp-elements-93c9c43e31bbec1e34f271fc1537024c.has-link-color li a:hover {
+	color: #0D8093;
+}
+
+/* Pre-Order link on all individual product menu pages except Shrimp, Miscellaneous and Platters. Those three are comma'd in this list in that respective order. */ 
+p.wp-elements-e95ffaf6da05f9a46a3317060dd68a33.has-text-align-center.has-link-color.has-normal-font-size a:hover, p.wp-elements-9c23e90aba87c38d41b341b2a2ea361f.has-text-align-center.has-link-color.has-normal-font-size a:hover, p.wp-elements-55f3843d6a189eabdce9320d5e9fb460.has-text-align-center.has-link-color.has-medium-font-size.has-small-font-size.has-normal-font-size a:hover, p.wp-elements-e593b8da91b7831b20b551489e54d72b.has-text-align-center.has-link-color.has-normal-font-size a:hover {
+	color: #0D8093;
+}
+
+
+/* Linked text on homepage under order, car and contact icons. */
+p.wp-elements-98d26d8a941739c551dc20aaeb63d2b7.has-text-align-center.has-foreground-color.has-text-color.has-link-color a:hover, p.has-text-align-center.has-foreground-color.has-text-color a:hover, p.wp-elements-026d928e346a2ee851ad5a0e5416cc76.has-text-align-center.has-foreground-color.has-text-color.has-link-color a:hover {
+	color: #0D8093; 
+} 
+
+
+
+/* Homepage bolded paragraph for order form and orders email. */
+p.wp-elements-22801b5ad627d19ea140d6244fb9d50f.has-text-align-left.has-foreground-color.has-text-color.has-link-color a:hover {
+	color: #0D8093; 
+} 
+
+
+/* Schedule page linked h5 text. */
+h5.wp-elements-7d92fcdf8725cb123ec021e48b32236c.wp-block-heading.has-foreground-color.has-text-color.has-link-color a:hover {
+	color: #0D8093;
+}
+
+
+/* Footer menu of links. */
+div.wp-elements-cc23dc73c820c67782754a845fb16602.wp-block-jetpack-contact-info.has-primary-color.has-text-color.has-link-color.has-small-font-size a:hover {
+	color: #0D8093;
+}
+
+
+/* All linked paragraph text, catching Upcoming Specials and Schedule page text. */
+
+p a:hover {
+	color: #0D8093;
+}
+
